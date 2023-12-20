@@ -1,2 +1,2 @@
-# Note-App
-Note taking app
+# Weather-App
+
